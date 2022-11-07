@@ -3,6 +3,7 @@ use_frameworks!
 
 target 'Example' do
 
-pod 'ZDTestKit', :path => '../'
+#pod 'ZDTestKit', :path => '../'
+pod 'ZDTestKit', :path => '../Library.podspec'
 
 end

@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "149CDDB5947723281A24C01A8325107F"
-               BuildableName = "ZDTestKit.framework"
+               BuildableName = "ZDTestKit"
                BlueprintName = "ZDTestKit"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>

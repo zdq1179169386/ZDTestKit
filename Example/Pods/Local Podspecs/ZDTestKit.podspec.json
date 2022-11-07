@@ -12,14 +12,13 @@
     "zdq1179169386": "2259434901@qq.com"
   },
   "source": {
-    "git": "https://github.com/zdq1179169386/ZDTestKit.git",
-    "tag": "0.0.1"
+    "git": "https://github.com/zdq1179169386/ZDTestKit.git"
   },
   "swift_versions": "5.0",
   "platforms": {
     "ios": "11.0"
   },
   "requires_arc": true,
-  "source_files": "Source/**/*.swift",
+  "vendored_frameworks": "ZDTestKit/Carthage/**/ZDTestKit.xcframework",
   "swift_version": "5.0"
 }
