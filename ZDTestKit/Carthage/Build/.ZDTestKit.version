@@ -1,0 +1,19 @@
+{
+  "commitish" : "19472f71b5b9fe64e707b8042849445c39038ec3",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)",
+      "hash" : "a494d6ce1a2d5fc65b198c86e0e849596d7b46d9575cbbc3ea28d284a9807171",
+      "name" : "ZDTestKit",
+      "container" : "ZDTestKit.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)",
+      "hash" : "89e85d4348e2fba842c7dc94ca5f37f24916227e3100b38d684df30dbff657de",
+      "name" : "ZDTestKit",
+      "container" : "ZDTestKit.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}
