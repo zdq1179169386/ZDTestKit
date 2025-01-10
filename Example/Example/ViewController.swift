@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         view.setRed()
         1
         2
+        3
     }
 
 
