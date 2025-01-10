@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         view.setRed()
         1
-        2
+        
         3
         4
     }
