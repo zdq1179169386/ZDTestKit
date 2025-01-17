@@ -1,6 +1,0 @@
-framework module ZDTestKit {
-  umbrella header "ZDTestKit-umbrella.h"
-
-  export *
-  module * { export * }
-}

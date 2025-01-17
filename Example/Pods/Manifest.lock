@@ -2,15 +2,20 @@ PODS:
   - ZDTestKit (0.0.1)
 
 DEPENDENCIES:
-  - ZDTestKit (from `../Library.podspec`)
+  - ZDTestKit (from `../ZDTestKit-Lib.podspec`)
 
 EXTERNAL SOURCES:
   ZDTestKit:
-    :path: "../Library.podspec"
+    :podspec: "../ZDTestKit-Lib.podspec"
+
+CHECKOUT OPTIONS:
+  ZDTestKit:
+    :commit: f14e3f3234db0ba1ba0f846e35350794d9332035
+    :git: https://github.com/zdq1179169386/ZDTestKit.git
 
 SPEC CHECKSUMS:
-  ZDTestKit: 3324cafabf2a25d0b1c2c153a052d2772cb986fe
+  ZDTestKit: 666d98af801ef14f87ae67ccf7e3298810d7d432
 
-PODFILE CHECKSUM: 63ca6df01a398a205886c8f6ed296c2cc10bb992
+PODFILE CHECKSUM: a8e397bb7e207dec017a8ebdc4f32d58d74c4434
 
-COCOAPODS: 1.11.3
+COCOAPODS: 1.16.2

@@ -1,0 +1,4 @@
+framework module ZDTestKit {
+  header "ZDTestKit-Swift.h"
+  requires objc
+}

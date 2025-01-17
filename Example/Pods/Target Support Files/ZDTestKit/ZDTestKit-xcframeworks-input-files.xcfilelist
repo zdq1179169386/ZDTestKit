@@ -1,2 +1,2 @@
 ${PODS_ROOT}/Target Support Files/ZDTestKit/ZDTestKit-xcframeworks.sh
-${PODS_ROOT}/../../ZDTestKit/Carthage/Build/ZDTestKit.xcframework
+${PODS_ROOT}/../../Source/Frameworks/ZDTestKit.xcframework
