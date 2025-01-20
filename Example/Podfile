@@ -1,6 +1,8 @@
 # platform :ios, '9.0'
 use_frameworks!
 
+load './ZHMainConfig.rb'
+
 target 'Example' do
 
 #pod 'ZDTestKit', :path => '../'
@@ -9,6 +11,6 @@ target 'Example' do
 
 
 #pod 'ZDTestKit', :podspec => '../ZDTestKit.podspec'
-pod 'ZDTestKit', :podspec => '../ZDTestKit-Lib.podspec'
+bc_pod 'ZDTestKit', :git => 'git@github.com:zdq1179169386/ZDTestKit.git', :tag => '0.0.1', :bc_useRemote => 1
 
 end
