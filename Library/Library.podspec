@@ -15,6 +15,6 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '11.0'
   s.requires_arc = true
 
-  s.vendored_frameworks = 'Source/Frameworks/**/*.xcframework'
+  s.vendored_frameworks = 'Library/**/*.xcframework'
 
 end
