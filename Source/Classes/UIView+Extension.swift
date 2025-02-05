@@ -12,5 +12,6 @@ public extension UIView {
     
     func setRed() {
         backgroundColor = .red
+        print("dev-1.2")
     }
 }
